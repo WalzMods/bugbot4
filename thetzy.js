@@ -8,7 +8,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 //=================================================//
 global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = true //status auto mengetik (auto typing)
+global.autoketik = false //status auto mengetik (auto typing)
 global.available = true //status online (online)
 global.autred = false
 //—————「 Set Random Image Menu 」—————//
@@ -45,8 +45,8 @@ global.botname = '⏤͟͞ঔৣོ⃟ཿ☔𝚆𝚊𝚕𝚣𝚃𝚑𝚎𝚁𝚊�
 global.footer = '⏤͟͞ঔৣོ⃟ཿ☔𝚆𝚊𝚕𝚣𝚃𝚑𝚎𝚁𝚊𝚒𝚗☔༃⃟⚟' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['628589109527']
-global.premium = ['6285899109527']
+global.owner = ['6285723156229']
+global.premium = ['6285723156229']
 global.packname = '⏤͟͞ঔৣོ⃟ཿ☔𝚆𝚊𝚕𝚣𝚃𝚑𝚎𝚁𝚊𝚒𝚗☔༃⃟⚟'
 global.ownerr = ['⏤͟͞ঔৣོ⃟ཿ☔𝚆𝚊𝚕𝚣𝚃𝚑𝚎𝚁𝚊𝚒𝚗☔༃⃟⚟']
 global.author = '⏤͟͞ঔৣོ⃟ཿ☔𝚆𝚊𝚕𝚣𝚃𝚑𝚎𝚁𝚊𝚒𝚗☔༃⃟⚟'
