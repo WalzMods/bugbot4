@@ -74,10 +74,10 @@ global.limitawal = {
    potionawal: 1
 }
 //=================================================//
-global.thumb = { url: 'https://telegra.ph/file/842cc1a7658a1c2b94c0c.jpg' }
+global.thumb = { url: 'https://telegra.ph/file/08bd84f5987648c6075bc.jpg' }
 global.visoka = { url: 'https://a.uguu.se/fVFNCwix.mp4' }
 global.menuimg = { url: 'https://a.uguu.se/fVFNCwix.mp4' }
-global.zy = { url: 'https://telegra.ph/file/842cc1a7658a1c2b94c0c.jpg' }
+global.zy = { url: 'https://telegra.ph/file/08bd84f5987648c6075bc.jpg' }
 global.log0 = fs.readFileSync("./basetzy/gambarnye/thezyren.jpg")
 //=================================================//
 let file = require.resolve(__filename)
