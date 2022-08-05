@@ -154,8 +154,8 @@ ppgroup = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Ga
 if (anu.action == 'add') {
 var buffer = await getBuffer(ppuser)
 let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6285714170944@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-he = `HELLO 👋 SELAMAT DATANG DI GROUP ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
-let link = `https://youtube.com/c/TheZyrenn'`
+he = `HALO KONTOL SELAMAT DATANG DI GRUP  ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
+let link = `https://xnxx.com'`
 let buttons = [
 {buttonId: `halo`, buttonText: {displayText: 'WELCOME'}, type: 1}
 ]
@@ -164,14 +164,14 @@ document: fs.readFileSync('./basetzy/lib/tes.xlsx'),
 mimetype: feler,
 jpegThumbnail:buffer,
 mentions: [num],
-fileName: `HELLO 👋 SELAMAT DATANG DI GROUP ${metadata.subject}`,
+fileName: `HALO KONTOL SELAMAT DATANG DI GRUP ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
 footer: `⏤͟͞ঔৣོ⃟ཿ☔𝚆𝚊𝚕𝚣𝚃𝚑𝚎𝚁𝚊𝚒𝚗☔༃⃟⚟"`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title: `Jangan Lupa Tersenyum ☺️`,
+title: `Jangan Lupa Ngocok`,
 body: `⏤͟͞ঔৣོ⃟ཿ☔𝚆𝚊𝚕𝚣𝚃𝚑𝚎𝚁𝚊𝚒𝚗☔༃⃟⚟`,
 mediaType:2,
 thumbnail: buffer,
@@ -181,8 +181,8 @@ mediaUrl: link,}}}
 zyren.sendMessage(anu.id, buttonMessage, {quoted:fgclink})
 } else if (anu.action == 'remove') {
 let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6285714170944@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-he = `SELAMAT TINGGAL KAWAN 👋 ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
-let link = `https://youtube.com/c/TheZyrenn'`
+he = `AWOKAWOK DI KICK ANJING HAHA ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
+let link = `https://xnxx.com'`
 let buttons = [
 {buttonId: `halo`, buttonText: {displayText: 'BYE'}, type: 1}
 ]
@@ -191,14 +191,14 @@ document: fs.readFileSync('./basetzy/lib/tes.xlsx'),
 mimetype: feler,
 jpegThumbnail:buffer,
 mentions: [num],
-fileName: `SELAMAT TINGGAL 👋 ${metadata.subject}`,
+fileName: `AWOKAWOK DI KICK ANJING HAHA ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
 footer: `⏤͟͞ঔৣོ⃟ཿ☔𝚆𝚊𝚕𝚣𝚃𝚑𝚎𝚁𝚊𝚒𝚗☔༃⃟⚟`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title: `Jangan Lupa Tersenyum ☺️`,
+title: `Jangan Lupa Crot Crot`,
 body: `⏤͟͞ঔৣོ⃟ཿ☔𝚆𝚊𝚕𝚣𝚃𝚑𝚎𝚁𝚊𝚒𝚗☔༃⃟⚟`,
 mediaType:2,
 thumbnail: buffer,
@@ -247,7 +247,7 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `YANG SABAR YAH MAKANYA JADI ADMIN YANG BETUL 😡️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `WalzMods`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -268,12 +268,12 @@ mentions: [num],
 fileName: `SELAMAT TELAH JADI ADMIN 🤗 ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `© HW MODS WA`,
+footer: `WalzMods`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `JADI LAH ADMIN YANG BIJAK KAWAN 🌷️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `WalzMods`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
