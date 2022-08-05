@@ -27,7 +27,7 @@ global.myweb = 'https://youtube.com/channel/UC29cQ2pULR6ECAlAQIPUlfg'
 global.linkgrupss = "https://youtube.com/channel/UC29cQ2pULR6ECAlAQIPUlfg"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.linkun = 'mailto:support@whatsapp.com?subject=Account%20Locked&body=Good%20Afternoon%20I%20Have%20A%20Problem%20Account%20Is%20Locked,%20I%20Spam%20Nothing%20But%20My%20Account%20Suddenly%20Locked,%20Please%20Reactivate%20This%20Number:%20[+62xxxxxx]'
-global.email = 'TheZyrenn@gmail.com'
+global.email = 'IkhwalRmdhnn@gmail.com'
 global.ntidel = ['120363043965529911@g.us']
 global.wlcm = []
 global.wlcmm = []
